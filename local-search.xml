@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>简介</title>
+    <link href="/2023/03/14/hello-world/"/>
+    <url>/2023/03/14/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>这里是ZDYbdy的个人博客，我花费了很久的时间来布置这个内容，一方面是兴趣，另一方面就是希望激励自己一直坚持走下去，就像这次博客的搭建过程一样。我会介绍一些我这学期或者是最近的计划，如果你有兴趣的话可以收藏起来，一起交流。</p><h2 id="未来构想"><a href="#未来构想" class="headerlink" title="未来构想"></a>未来构想</h2><h3 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h3><p>对于大数据分析而言，机器学习是不可或缺的，为了更深层次的理解其中的内容，我将会用python实现各种算法，并且不导入如sklearn等直接库，实现包括最近邻算法、CART、逻辑斯蒂分类、贝叶斯分类、神经网络、支持向量机、AdaBoost、Bagging</p><h3 id="voice训练模型"><a href="#voice训练模型" class="headerlink" title="voice训练模型"></a>voice训练模型</h3><p>通过开源的声音训练模型，我会实现声音的数字复制品</p><h3 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h3><p>其他的内容将会持续更新</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
